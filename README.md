@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alp361
 
-I’m interested in web development, web pentesting, cyber security, and artificial intelligence.I’m currently learning Javascript. I'm practising my HTML5 and CSS3 skills.
-My priority is being a front-end developer for now. I want to learn back-end development after I have enough experience in front-end development.
+I’m interested in ethical hacking, web pentesting, cyber security, and artificial intelligence.
 
 - 📫 How to reach me:
 
