@@ -1,12 +1,15 @@
 - 👋 Hi, I’m @alp361
 
-I’m interested in ethical hacking, web pentesting, cyber security, and artificial intelligence.
+I’m interested in web pentesting, cyber security, and artificial intelligence.
+
+Skills: Python, HTML, CSS, Kali Linux, Burp Suite
+
 
 - 📫 How to reach me:
 
 - Instagram: instagram.com/alpozcelik_/
 - E-mail: ialp5852@gmail.com / ialp_ozcelik@outlook.com
-- LinkedIn: linkedin.com/in/ismail-özçelik-8a435722a
+- LinkedIn: https://www.linkedin.com/in/ismail-alp-ozcelik/
 
 
 
