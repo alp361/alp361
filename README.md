@@ -2,7 +2,7 @@
 
 I’m interested in web pentesting, cyber security, and artificial intelligence.
 
-Skills: Python, HTML, CSS, Kali Linux, Burp Suite
+Skills: Python, PHP, HTML, CSS, Kali Linux, Burp Suite
 
 Hackerrank: https://www.hackerrank.com/ialp5852
 
